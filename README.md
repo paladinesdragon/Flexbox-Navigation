@@ -1,3 +1,3 @@
-#Flexbox Navigation
+# Flexbox Navigation
 
 Simple repsonsive menu navigation using flexbox.
